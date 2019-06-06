@@ -1,0 +1,57 @@
+.zhuce{
+	width: 100%;
+	height: 500px;
+	/*border: 1px solid black;*/
+}
+.zhuce-contain{
+	width: 80%;
+	height: 470px;
+	margin: 0 auto;
+	border: 1px solid #bbb;
+	padding-top: 30px;
+	border-top: 0;
+}
+.zhuce-nav{
+	width: 35%;
+	height: 420px;
+	margin: 0 auto;
+	/*margin-top: 30px;*/
+	/*border: 1px solid black;*/
+}
+.input-div{
+	width: 100%;
+	height: 40px;
+	/*border: 1px solid black;*/
+	margin-top: 30px;
+}
+.input-div>span{
+	display: inline-block;
+	width: 150px;
+	height: 40px;
+	line-height: 40px;
+	text-align: right;
+	/*border: 1px solid black;*/
+}
+.phone-number,.setpassword,.yespassword{
+	width: 250px;
+	height: 40px;
+	border-radius: 5px;
+}
+.yanzhengma{
+	width: 160px;
+	height: 40px;
+	border-radius: 5px;
+}
+.zhuce-nav>a{
+	text-decoration: none;
+}
+.zhuce-now{
+	width: 250px;
+	height: 40px;
+	color: #FFFFFF;
+	margin-top: 20px;
+	margin-left: 160px;
+	text-align: center;
+	line-height: 40px;
+	background-color: #A42827;
+}
